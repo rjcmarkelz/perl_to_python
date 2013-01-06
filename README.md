@@ -196,22 +196,22 @@ barcode_plot(file.name, expt.name)
 
 For this plot (saved to `sample_files/output/demo.barcodes.png`), barcodes are split into two groups, those that match an expected barcode and those that are unmatched. Boxplots are then generated using the observed barcode frequencies (which are jitter-plotted individually on top of the boxplot).
 
-<img src="https://raw.github.com/mfcovington/auto_barcode/master/sample_files/output/demo.barcodes.png" height="500" />
+<img src="https://raw.github.com/mfcovington/perl_to_python/master/sample_files/output/demo.barcodes.png" height="500" />
 
 <!-- LINKS -->
 
-[usage_summary]: https://github.com/mfcovington/auto_barcode#usage-summary
-[detailed_example]: https://github.com/mfcovington/auto_barcode/#detailed-usage-example
-[split_trim]: https://github.com/mfcovington/auto_barcode/#barcode-splittingtrimming
-[plot]: https://github.com/mfcovington/auto_barcode/#plotting-barcode-splitting-summary
+[usage_summary]: https://github.com/mfcovington/perl_to_python#usage-summary
+[detailed_example]: https://github.com/mfcovington/perl_to_python/#detailed-usage-example
+[split_trim]: https://github.com/mfcovington/perl_to_python/#barcode-splittingtrimming
+[plot]: https://github.com/mfcovington/perl_to_python/#plotting-barcode-splitting-summary
 
-[sample_files_folder]: https://github.com/mfcovington/auto_barcode/tree/master/sample_files
-[barcodes]: https://raw.github.com/mfcovington/auto_barcode/master/sample_files/barcode.list
+[sample_files_folder]: https://github.com/mfcovington/perl_to_python/tree/master/sample_files
+[barcodes]: https://raw.github.com/mfcovington/perl_to_python/master/sample_files/barcode.list
 
-[output_folder]: https://github.com/mfcovington/auto_barcode/tree/master/sample_files/output
-[LOG1]: https://raw.github.com/mfcovington/auto_barcode/master/sample_files/output/log_barcode_counts.fq_sequences.bar_barcode.list
-[LOG2]: https://raw.github.com/mfcovington/auto_barcode/master/sample_files/output/log_barcodes_observed.fq_sequences.bar_barcode.list
-[LOG2_converted]: https://raw.github.com/mfcovington/auto_barcode/master/sample_files/output/log_barcodes_observed.fq_sequences.bar_barcode.list.tsv
+[output_folder]: https://github.com/mfcovington/perl_to_python/tree/master/sample_files/output
+[LOG1]: https://raw.github.com/mfcovington/perl_to_python/master/sample_files/output/log_barcode_counts.fq_sequences.bar_barcode.list
+[LOG2]: https://raw.github.com/mfcovington/perl_to_python/master/sample_files/output/log_barcodes_observed.fq_sequences.bar_barcode.list
+[LOG2_converted]: https://raw.github.com/mfcovington/perl_to_python/master/sample_files/output/log_barcodes_observed.fq_sequences.bar_barcode.list.tsv
 
-[barcode_plot]: https://github.com/mfcovington/auto_barcode/blob/master/barcode_plot.R
+[barcode_plot]: https://github.com/mfcovington/perl_to_python/blob/master/barcode_plot.R
 
